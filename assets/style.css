@@ -1,0 +1,19 @@
+body{
+    padding-left: 20%; 
+    padding-right: 20%;
+    font-family: Barlow Condensed,Verdana, Geneva, Tahoma, sans-serif
+    
+}
+div{
+    text-align: center;
+}
+header{
+    background-color:lightyellow;
+}
+img{
+    border-radius: 10px;
+}
+#Sally{
+    color: gray;
+    justify-content: center;
+}
