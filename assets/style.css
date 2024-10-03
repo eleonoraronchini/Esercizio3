@@ -17,3 +17,8 @@ img{
     color: gray;
     justify-content: center;
 }
+
+nav{
+    border-left: 3px solid orange;
+    padding-left: 2px;
+}
